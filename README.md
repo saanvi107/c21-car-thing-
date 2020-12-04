@@ -1,1 +1,2 @@
-# c21-car-thing-
+# collisionAlgorithm
+Algorithm to detect collision between two objects
